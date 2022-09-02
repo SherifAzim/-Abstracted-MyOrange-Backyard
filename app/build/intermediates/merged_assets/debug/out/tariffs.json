@@ -1,0 +1,219 @@
+{
+  "Tariffs": [
+    {
+      "TariffId": 480,
+      "Title": "Matrixx BYOB",
+      "Artwork": "http://10.158.231.169/",
+      "Unit": "NA",
+      "Validity": "2000-01-01T00:00:00",
+      "IsPreDefinedCost": false,
+      "Cost": 0.0,
+      "Offers": [
+        {
+          "Title": "Internet",
+          "OfferType": "MBs",
+          "Artwork": "http://10.158.231.169/",
+          "Order": 1,
+          "Options": [
+            {
+              "OfferId": 1,
+              "Title": "2000",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "MBs",
+              "Amount": 2000,
+              "Unit": "MBs",
+              "Cost": 20.0,
+              "TarrifId": 480
+            },
+            {
+              "OfferId": 2,
+              "Title": "3000",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "MBs",
+              "Amount": 3000,
+              "Unit": "MBs",
+              "Cost": 25.0,
+              "TarrifId": 480
+            },
+            {
+              "OfferId": 3,
+              "Title": "4500",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "MBs",
+              "Amount": 4500,
+              "Unit": "MBs",
+              "Cost": 35.0,
+              "TarrifId": 480
+            },
+            {
+              "OfferId": 4,
+              "Title": "7000",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "MBs",
+              "Amount": 7000,
+              "Unit": "MBs",
+              "Cost": 50.0,
+              "TarrifId": 480
+            },
+            {
+              "OfferId": 5,
+              "Title": "10000",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "MBs",
+              "Amount": 10000,
+              "Unit": "MBs",
+              "Cost": 70.0,
+              "TarrifId": 480
+            },
+            {
+              "OfferId": 6,
+              "Title": "17000",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "MBs",
+              "Amount": 17000,
+              "Unit": "MBs",
+              "Cost": 100.0,
+              "TarrifId": 480
+            },
+            {
+              "OfferId": 7,
+              "Title": "25000",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "MBs",
+              "Amount": 25000,
+              "Unit": "MBs",
+              "Cost": 140.0,
+              "TarrifId": 480
+            }
+          ]
+        },
+        {
+          "Title": "Units",
+          "OfferType": "Units",
+          "Artwork": "http://10.158.231.169/",
+          "Order": 2,
+          "Options": [
+            {
+              "OfferId": 1,
+              "Title": "0",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "Units",
+              "Amount": 0,
+              "Unit": "Units",
+              "Cost": 0.0,
+              "TarrifId": 480
+            },
+            {
+              "OfferId": 2,
+              "Title": "100",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "Units",
+              "Amount": 100,
+              "Unit": "Units",
+              "Cost": 5.0,
+              "TarrifId": 480
+            },
+            {
+              "OfferId": 3,
+              "Title": "300",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "Units",
+              "Amount": 300,
+              "Unit": "Units",
+              "Cost": 10.0,
+              "TarrifId": 480
+            },
+            {
+              "OfferId": 4,
+              "Title": "500",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "Units",
+              "Amount": 500,
+              "Unit": "Units",
+              "Cost": 15.0,
+              "TarrifId": 480
+            },
+            {
+              "OfferId": 5,
+              "Title": "1000",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "Units",
+              "Amount": 1000,
+              "Unit": "Units",
+              "Cost": 25.0,
+              "TarrifId": 480
+            },
+            {
+              "OfferId": 6,
+              "Title": "2000",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "Units",
+              "Amount": 2000,
+              "Unit": "Units",
+              "Cost": 40.0,
+              "TarrifId": 480
+            },
+            {
+              "OfferId": 7,
+              "Title": "4000",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "Units",
+              "Amount": 4000,
+              "Unit": "Units",
+              "Cost": 70.0,
+              "TarrifId": 480
+            }
+          ]
+        },
+        {
+          "Title": "Days",
+          "OfferType": "Days",
+          "Artwork": "http://10.158.231.169/",
+          "Order": 3,
+          "Options": [
+            {
+              "OfferId": 480,
+              "Title": "28",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "Days",
+              "Amount": 28,
+              "Unit": "Days",
+              "Cost": 0.0,
+              "TarrifId": 480
+            },
+            {
+              "OfferId": 600,
+              "Title": "1",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "Days",
+              "Amount": 1,
+              "Unit": "Days",
+              "Cost": 0.0,
+              "TarrifId": 480
+            },
+            {
+              "OfferId": 601,
+              "Title": "7",
+              "Artwork": "http://10.158.231.169/",
+              "OfferType": "Days",
+              "Amount": 7,
+              "Unit": "Days",
+              "Cost": 0.0,
+              "TarrifId": 480
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "GiftName": "Matrixx to Matrixx",
+  "GiftPopUpTitle": "You have a gift",
+  "GiftPopUpDescription": "You will get the matrixx to matrixx equal to the number of units for free.",
+  "GiftPopUpButtonText": "Got it",
+  "IsGiftExists": true,
+  "ErrorCode": 0,
+  "ErrorMessage": "Request is successful",
+  "InternalError": null,
+  "InternalErrorDescription": null,
+  "ErrorDescription": null
+}

@@ -1,0 +1,41 @@
+com/example/abstractmyorange/databinding/EditRequestFragmentBinding.java
+ com.example.abstractmyorange.databinding.EditRequestFragmentBinding
+com/example/abstractmyorange/data/repositories/TariffsRepo_Factory.java
+ com.example.abstractmyorange.data.repositories.TariffsRepo_Factory
+com/example/abstractmyorange/databinding/OrderFragmentBinding.java
+ com.example.abstractmyorange.databinding.OrderFragmentBinding
+com/example/abstractmyorange/data/repositories/DataSource_Factory.java
+ com.example.abstractmyorange.data.repositories.DataSource_Factory
+com/example/abstractmyorange/databinding/TariffCostFragmentBinding.java
+ com.example.abstractmyorange.databinding.TariffCostFragmentBinding
+com/orange/tariffs/usecase/CostCalculationUseCase_Factory.java
+ com.orange.tariffs.usecase.CostCalculationUseCase_Factory
+com/example/abstractmyorange/domain/usecase/OffersLoadingUseCase_Factory.java
+ com.example.abstractmyorange.domain.usecase.OffersLoadingUseCase_Factory
+com/example/abstractmyorange/BuildConfig.java
+ com.example.abstractmyorange.BuildConfig
+com/example/abstractmyorange/editrequst/EditRequestViewModel_MembersInjector.java
+ com.example.abstractmyorange.editrequst.EditRequestViewModel_MembersInjector
+com/example/abstractmyorange/onboarding/OrderVM_MembersInjector.java
+ com.example.abstractmyorange.onboarding.OrderVM_MembersInjector
+com/example/abstractmyorange/editrequst/TariffCostVM_MembersInjector.java
+ com.example.abstractmyorange.editrequst.TariffCostVM_MembersInjector
+com/example/abstractmyorange/databinding/ActivityMainBinding.java
+ com.example.abstractmyorange.databinding.ActivityMainBinding
+com/example/abstractmyorange/app_di/DaggerAppComponent.java
+ com.example.abstractmyorange.app_di.DaggerAppComponent
+ com.example.abstractmyorange.app_di.DaggerAppComponent$1
+ com.example.abstractmyorange.app_di.DaggerAppComponent$Factory
+com/example/abstractmyorange/databinding/MainFragmentBinding.java
+ com.example.abstractmyorange.databinding.MainFragmentBinding
+com/example/abstractmyorange/AppActivity.java
+ com.example.abstractmyorange.AppActivity
+ com.example.abstractmyorange.CostComponentFactory
+com/example/abstractmyorange/di/DaggerMainComponent.java
+ com.example.abstractmyorange.di.DaggerMainComponent
+ com.example.abstractmyorange.di.DaggerMainComponent$1
+ com.example.abstractmyorange.di.DaggerMainComponent$CostSubComponentImpl
+ com.example.abstractmyorange.di.DaggerMainComponent$Factory
+ com.example.abstractmyorange.di.DaggerMainComponent$OrderSubComponentBuilder
+ com.example.abstractmyorange.di.DaggerMainComponent$OrderSubComponentImpl
+ com.example.abstractmyorange.di.DaggerMainComponent$com_example_abstractmyorange_app_di_AppComponent_getContext

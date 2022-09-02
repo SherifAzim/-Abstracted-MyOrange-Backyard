@@ -1,0 +1,57 @@
+{
+    "Tariffs": [
+        {
+            "TariffId": 1,
+            "Title": "BYOB Main",
+            "Artwork": null,
+            "Unit": null,
+            "Validity": "2022-06-23T14:49:53.77",
+            "IsPreDefinedCost": false,
+            "Cost": 150,
+            "DeliveryFees": 0,
+            "SimCost": 0,
+            "Offers": [
+                {
+                    "Title": "BYOB Units Offer",
+                    "Artwork": null,
+                    "OfferType": "Units",
+                    "Order": 1,
+                    "Options": [
+                        {
+                            "OfferId": 11,
+                            "Title": "BYOB Units Offer",
+                            "Artwork": null,
+                            "OfferType": "Units",
+                            "Amount": 20,
+                            "Unit": "Units",
+                            "Cost": 30,
+                            "TarrifId": 1
+                        }
+                    ]
+                },
+                {
+                    "Title": "BYOB Data Offer",
+                    "Artwork": null,
+                    "OfferType": "SuperMBs",
+                    "Order": 2,
+                    "Options": [
+                        {
+                            "OfferId": 12,
+                            "Title": "BYOB Data Offer",
+                            "Artwork": null,
+                            "OfferType": "SuperMBs",
+                            "Amount": 40,
+                            "Unit": "SuperMBs",
+                            "Cost": 60,
+                            "TarrifId": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "ErrorCode": 0,
+    "ErrorMessage": "Request is successful",
+    "InternalError": null,
+    "InternalErrorDescription": "Success"
+}

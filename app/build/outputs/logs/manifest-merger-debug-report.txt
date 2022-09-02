@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.databinding:viewbinding:4.2.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/7d77cd67449f41af70975e2b34a24bc7/viewbinding-4.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/3e37d2ef014d0163a8292eb5d319b665/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/2a9a35b56ac84e4f294a12fa8316c182/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/2a8497f45e3e996783159db6f68b54f8/navigation-fragment-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/1769a7f3993f55af507a7ffc10c99a0f/fragment-ktx-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/91aa050cf40a054fe7fcc4453f54a9a5/navigation-ui-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/3d0f88206f214dd8a73d04956899514a/navigation-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.2] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/512d7e28bc02942a9d7c48f1ef339629/activity-ktx-1.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/d52becd9d383c4f22e8e18eec8be6a5c/navigation-common-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/eaf5ae298f3fc0c98e58cf4e348e9f83/core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/e11e428ce336cb9e2ce00da7b36e4f6c/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/824cffd6e90fa7e97da756938215fd70/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/75353edf3a66676ffec6658262e19cea/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/c2846d4031344241d14c51fbd5cbd94d/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/7d6a9fda7b91059b708c27b051494518/navigation-ui-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/e6ba63008af92b316cc93dd2b77eff07/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/26d35115a2cc28ff0bd3d7b9c2bda4b6/constraintlayout-2.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/4983a461142219c19a9cfa5cb25e783f/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-alpha01] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/944430f5ae535a1fa6fad22a829bffa1/viewpager2-1.1.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/a50c808ac0b711a813237e3a52d72b4c/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/712771ab7215b1d2f186b9da74a5eb49/rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.media:media:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/03d4ff53094b60d73386124fe00b69a2/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/9ad5782e79aa05b6b23fa72144636e2f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/21a4fa1bc7d33a528f50debbb4834827/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/c793621fc1a0a1a961cbd24039bb05fd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/ff0e8338711e540349d34d594bad24ce/appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/7d6c167cbba7b226b0a1dc52253d0e7d/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/fff032ac01d007816a43312d878bfe55/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/80cc5544920088fcb3df3c901a468176/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/9fd76270f8a535d278794aff17d403c2/navigation-fragment-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/5942a64ef5634759046525b20f125d33/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/7971eaec9cfdf7070cef77ff767d66e0/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/3a21b22c0f6291c63e65be1db3e13a7e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/f3b0881f32f8cb78eb034b17b5adfa0d/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/66dc9f8fd93f3b752034956225c63fca/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/805aaa30825f153ead3275604a73dc79/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/290cca470d80c3fedaa1ef305660a37b/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/57b9657361c6f88920aa1159352bca60/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/c16a9012e658ec3cffbaf545504ae9b4/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/ca0db579a37c3b558c0761d9b3299411/navigation-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/3e66cb8afff5a1920cad046868d0688b/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/8ac7b9e29ab64d6ea693f2413c15b290/navigation-common-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/6e21a9d68a7a3ac7d9818535e54f9d89/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/205861f6379a9c51f22ea31316ef55da/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/784960d407e818ccf3ba27c75400d777/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/9eadbcc0a61d758e9bcce1611b5abf70/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/f6a6b1b33758114b2bd5a6c94aacb8f9/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/255da5b2b9f4804a92e1c902b72e7770/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/23a54d7f682f2aa2d2ef451b7adb208b/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/284edee4340903c1e13cc38f9e64d615/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/88f926f18e26389d11f0acbd6ceb2384/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/426641e3c93dbb0917ebc71b02e9e2b5/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/4e81e6bd3f654b28f96e25f65b2ea8d0/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/c3fd51ad7ac8808861ceb047585e0554/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/304a06427938732d26490b97ce9d2ae7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/3220c10caf200b99ffc4a838f0170258/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/03c277ab9e64dde4501bdd61f8c6cc23/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/84f5158fba3b076fb18f89a5c2cf7d93/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/d8a5043adca3832a135ccecd548084cf/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:4:5-43
+		INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:6:5-23:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/e6ba63008af92b316cc93dd2b77eff07/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/e6ba63008af92b316cc93dd2b77eff07/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/26d35115a2cc28ff0bd3d7b9c2bda4b6/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/26d35115a2cc28ff0bd3d7b9c2bda4b6/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/6e21a9d68a7a3ac7d9818535e54f9d89/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/6e21a9d68a7a3ac7d9818535e54f9d89/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/284edee4340903c1e13cc38f9e64d615/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/284edee4340903c1e13cc38f9e64d615/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/6e21a9d68a7a3ac7d9818535e54f9d89/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:12:9-54
+	android:name
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:13:9-28
+activity#com.example.abstractmyorange.AppActivity
+ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:exported
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:15:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.2.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/7d77cd67449f41af70975e2b34a24bc7/viewbinding-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/7d77cd67449f41af70975e2b34a24bc7/viewbinding-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/3e37d2ef014d0163a8292eb5d319b665/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/3e37d2ef014d0163a8292eb5d319b665/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/2a9a35b56ac84e4f294a12fa8316c182/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/2a9a35b56ac84e4f294a12fa8316c182/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/2a8497f45e3e996783159db6f68b54f8/navigation-fragment-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/2a8497f45e3e996783159db6f68b54f8/navigation-fragment-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/1769a7f3993f55af507a7ffc10c99a0f/fragment-ktx-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/1769a7f3993f55af507a7ffc10c99a0f/fragment-ktx-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/91aa050cf40a054fe7fcc4453f54a9a5/navigation-ui-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/91aa050cf40a054fe7fcc4453f54a9a5/navigation-ui-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/3d0f88206f214dd8a73d04956899514a/navigation-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/3d0f88206f214dd8a73d04956899514a/navigation-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/512d7e28bc02942a9d7c48f1ef339629/activity-ktx-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/512d7e28bc02942a9d7c48f1ef339629/activity-ktx-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/d52becd9d383c4f22e8e18eec8be6a5c/navigation-common-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/d52becd9d383c4f22e8e18eec8be6a5c/navigation-common-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/eaf5ae298f3fc0c98e58cf4e348e9f83/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/eaf5ae298f3fc0c98e58cf4e348e9f83/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/e11e428ce336cb9e2ce00da7b36e4f6c/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/e11e428ce336cb9e2ce00da7b36e4f6c/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/824cffd6e90fa7e97da756938215fd70/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/824cffd6e90fa7e97da756938215fd70/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/75353edf3a66676ffec6658262e19cea/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/75353edf3a66676ffec6658262e19cea/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/c2846d4031344241d14c51fbd5cbd94d/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/c2846d4031344241d14c51fbd5cbd94d/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/7d6a9fda7b91059b708c27b051494518/navigation-ui-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/7d6a9fda7b91059b708c27b051494518/navigation-ui-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/e6ba63008af92b316cc93dd2b77eff07/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/e6ba63008af92b316cc93dd2b77eff07/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/26d35115a2cc28ff0bd3d7b9c2bda4b6/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/26d35115a2cc28ff0bd3d7b9c2bda4b6/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/4983a461142219c19a9cfa5cb25e783f/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/4983a461142219c19a9cfa5cb25e783f/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-alpha01] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/944430f5ae535a1fa6fad22a829bffa1/viewpager2-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-alpha01] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/944430f5ae535a1fa6fad22a829bffa1/viewpager2-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/a50c808ac0b711a813237e3a52d72b4c/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/a50c808ac0b711a813237e3a52d72b4c/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/712771ab7215b1d2f186b9da74a5eb49/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/712771ab7215b1d2f186b9da74a5eb49/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [androidx.media:media:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/03d4ff53094b60d73386124fe00b69a2/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/03d4ff53094b60d73386124fe00b69a2/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/9ad5782e79aa05b6b23fa72144636e2f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/9ad5782e79aa05b6b23fa72144636e2f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/21a4fa1bc7d33a528f50debbb4834827/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/21a4fa1bc7d33a528f50debbb4834827/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/c793621fc1a0a1a961cbd24039bb05fd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/c793621fc1a0a1a961cbd24039bb05fd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/ff0e8338711e540349d34d594bad24ce/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/ff0e8338711e540349d34d594bad24ce/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/7d6c167cbba7b226b0a1dc52253d0e7d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/7d6c167cbba7b226b0a1dc52253d0e7d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/fff032ac01d007816a43312d878bfe55/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/fff032ac01d007816a43312d878bfe55/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/80cc5544920088fcb3df3c901a468176/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/80cc5544920088fcb3df3c901a468176/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/9fd76270f8a535d278794aff17d403c2/navigation-fragment-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/9fd76270f8a535d278794aff17d403c2/navigation-fragment-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/5942a64ef5634759046525b20f125d33/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/5942a64ef5634759046525b20f125d33/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/7971eaec9cfdf7070cef77ff767d66e0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/7971eaec9cfdf7070cef77ff767d66e0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/3a21b22c0f6291c63e65be1db3e13a7e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/3a21b22c0f6291c63e65be1db3e13a7e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/f3b0881f32f8cb78eb034b17b5adfa0d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/f3b0881f32f8cb78eb034b17b5adfa0d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/66dc9f8fd93f3b752034956225c63fca/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/66dc9f8fd93f3b752034956225c63fca/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/805aaa30825f153ead3275604a73dc79/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/805aaa30825f153ead3275604a73dc79/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/290cca470d80c3fedaa1ef305660a37b/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/290cca470d80c3fedaa1ef305660a37b/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/57b9657361c6f88920aa1159352bca60/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/57b9657361c6f88920aa1159352bca60/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/c16a9012e658ec3cffbaf545504ae9b4/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/c16a9012e658ec3cffbaf545504ae9b4/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/ca0db579a37c3b558c0761d9b3299411/navigation-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/ca0db579a37c3b558c0761d9b3299411/navigation-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/3e66cb8afff5a1920cad046868d0688b/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/3e66cb8afff5a1920cad046868d0688b/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/8ac7b9e29ab64d6ea693f2413c15b290/navigation-common-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/8ac7b9e29ab64d6ea693f2413c15b290/navigation-common-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/6e21a9d68a7a3ac7d9818535e54f9d89/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/6e21a9d68a7a3ac7d9818535e54f9d89/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/205861f6379a9c51f22ea31316ef55da/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/205861f6379a9c51f22ea31316ef55da/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/784960d407e818ccf3ba27c75400d777/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/784960d407e818ccf3ba27c75400d777/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/9eadbcc0a61d758e9bcce1611b5abf70/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/9eadbcc0a61d758e9bcce1611b5abf70/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/f6a6b1b33758114b2bd5a6c94aacb8f9/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/f6a6b1b33758114b2bd5a6c94aacb8f9/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/255da5b2b9f4804a92e1c902b72e7770/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/255da5b2b9f4804a92e1c902b72e7770/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/23a54d7f682f2aa2d2ef451b7adb208b/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/23a54d7f682f2aa2d2ef451b7adb208b/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/284edee4340903c1e13cc38f9e64d615/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/284edee4340903c1e13cc38f9e64d615/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/88f926f18e26389d11f0acbd6ceb2384/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/88f926f18e26389d11f0acbd6ceb2384/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/426641e3c93dbb0917ebc71b02e9e2b5/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/426641e3c93dbb0917ebc71b02e9e2b5/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/4e81e6bd3f654b28f96e25f65b2ea8d0/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/4e81e6bd3f654b28f96e25f65b2ea8d0/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/c3fd51ad7ac8808861ceb047585e0554/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/c3fd51ad7ac8808861ceb047585e0554/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/304a06427938732d26490b97ce9d2ae7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/304a06427938732d26490b97ce9d2ae7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/3220c10caf200b99ffc4a838f0170258/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/3220c10caf200b99ffc4a838f0170258/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/03c277ab9e64dde4501bdd61f8c6cc23/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/03c277ab9e64dde4501bdd61f8c6cc23/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/84f5158fba3b076fb18f89a5c2cf7d93/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/84f5158fba3b076fb18f89a5c2cf7d93/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/d8a5043adca3832a135ccecd548084cf/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/gradle/caches/transforms-2/files-2.1/d8a5043adca3832a135ccecd548084cf/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/AndroidManifest.xml

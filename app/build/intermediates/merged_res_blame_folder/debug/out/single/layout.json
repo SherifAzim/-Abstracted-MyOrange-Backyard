@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/main_fragment.xml",
+        "source": "/Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/res/layout/main_fragment.xml"
+    },
+    {
+        "merged": "/Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/edit_request_fragment.xml",
+        "source": "/Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/res/layout/edit_request_fragment.xml"
+    },
+    {
+        "merged": "/Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/tariff_cost_fragment.xml",
+        "source": "/Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/res/layout/tariff_cost_fragment.xml"
+    },
+    {
+        "merged": "/Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_fragment.xml",
+        "source": "/Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/res/layout/order_fragment.xml"
+    },
+    {
+        "merged": "/Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/sherif/myStuff/OrangeLab/AbsractMyOrange_Backyard/app/src/main/res/layout/activity_main.xml"
+    }
+]
